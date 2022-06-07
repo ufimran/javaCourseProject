@@ -1,4 +1,4 @@
-Final Project of My Java Course Pharmacy Management System
+Final Project of "Jave" Course Pharmacy Management System
 
 Requirment of Running this project
 
